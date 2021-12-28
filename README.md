@@ -1,2 +1,2 @@
-# treinamento--dio
-Treinamentos relaizados na plataforma DIO
+# Treinamento--dio
+Treinamentos e cursos realizados na plataforma DIO
